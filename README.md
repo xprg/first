@@ -1,1 +1,1 @@
-transfer learning using ResNet 50
+basic TodoList using django framework
